@@ -1,0 +1,7 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Ten\bin\Debug\Ten.exe.config
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Ten\bin\Debug\Ten.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Ten\bin\Debug\Ten.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Ten\obj\Debug\Ten.csprojAssemblyReference.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Ten\obj\Debug\Ten.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Ten\obj\Debug\Ten.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Ten\obj\Debug\Ten.pdb

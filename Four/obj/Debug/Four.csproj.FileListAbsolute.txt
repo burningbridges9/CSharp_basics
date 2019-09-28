@@ -1,0 +1,6 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Four\bin\Debug\Four.exe.config
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Four\bin\Debug\Four.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Four\bin\Debug\Four.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Four\obj\Debug\Four.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Four\obj\Debug\Four.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Four\obj\Debug\Four.csprojResolveAssemblyReference.cache

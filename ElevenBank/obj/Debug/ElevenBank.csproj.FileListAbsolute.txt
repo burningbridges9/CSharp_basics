@@ -1,0 +1,5 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBank\bin\Debug\ElevenBank.dll
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBank\bin\Debug\ElevenBank.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBank\obj\Debug\ElevenBank.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBank\obj\Debug\ElevenBank.dll
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBank\obj\Debug\ElevenBank.pdb

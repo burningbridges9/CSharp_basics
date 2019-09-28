@@ -1,0 +1,5 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Five\bin\Debug\Five.exe.config
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Five\bin\Debug\Five.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Five\bin\Debug\Five.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Five\obj\Debug\Five.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Five\obj\Debug\Five.pdb

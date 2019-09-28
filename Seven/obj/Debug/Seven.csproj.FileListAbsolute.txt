@@ -1,0 +1,6 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Seven\bin\Debug\Seven.exe.config
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Seven\bin\Debug\Seven.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Seven\bin\Debug\Seven.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Seven\obj\Debug\Seven.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Seven\obj\Debug\Seven.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Seven\obj\Debug\Seven.csprojResolveAssemblyReference.cache

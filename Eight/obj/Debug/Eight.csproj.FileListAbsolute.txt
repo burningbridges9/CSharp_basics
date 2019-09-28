@@ -1,0 +1,6 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eight\bin\Debug\Eight.exe.config
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eight\bin\Debug\Eight.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eight\bin\Debug\Eight.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eight\obj\Debug\Eight.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eight\obj\Debug\Eight.pdb
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\Tasks\Eight\obj\Debug\Eight.csprojResolveAssemblyReference.cache

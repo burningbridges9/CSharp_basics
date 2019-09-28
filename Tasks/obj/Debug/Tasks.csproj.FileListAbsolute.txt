@@ -1,0 +1,6 @@
+c:\users\rustam\documents\visual studio 2017\Projects\Tasks\Tasks\bin\Debug\Tasks.exe.config
+c:\users\rustam\documents\visual studio 2017\Projects\Tasks\Tasks\bin\Debug\Tasks.exe
+c:\users\rustam\documents\visual studio 2017\Projects\Tasks\Tasks\bin\Debug\Tasks.pdb
+c:\users\rustam\documents\visual studio 2017\Projects\Tasks\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+c:\users\rustam\documents\visual studio 2017\Projects\Tasks\Tasks\obj\Debug\Tasks.exe
+c:\users\rustam\documents\visual studio 2017\Projects\Tasks\Tasks\obj\Debug\Tasks.pdb

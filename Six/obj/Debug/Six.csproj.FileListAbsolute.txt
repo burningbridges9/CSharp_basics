@@ -1,0 +1,6 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Six\bin\Debug\Six.exe.config
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Six\bin\Debug\Six.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Six\bin\Debug\Six.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Six\obj\Debug\Six.csprojResolveAssemblyReference.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Six\obj\Debug\Six.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Six\obj\Debug\Six.pdb

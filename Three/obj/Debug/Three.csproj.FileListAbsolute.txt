@@ -1,0 +1,6 @@
+c:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Three\bin\Debug\Three.exe.config
+c:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Three\bin\Debug\Three.exe
+c:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Three\bin\Debug\Three.pdb
+c:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Three\obj\Debug\Three.csprojResolveAssemblyReference.cache
+c:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Three\obj\Debug\Three.exe
+c:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Three\obj\Debug\Three.pdb

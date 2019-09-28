@@ -1,0 +1,10 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\obj\Debug\Eleven.csprojAssemblyReference.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\obj\Debug\Eleven.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\bin\Debug\Eleven.exe.config
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\bin\Debug\Eleven.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\bin\Debug\Eleven.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\bin\Debug\ElevenBank.dll
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\bin\Debug\ElevenBank.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\obj\Debug\Eleven.csproj.CopyComplete
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\obj\Debug\Eleven.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\obj\Debug\Eleven.pdb
