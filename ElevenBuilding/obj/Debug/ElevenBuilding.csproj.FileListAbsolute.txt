@@ -1,0 +1,6 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBuilding\bin\Debug\ElevenBuilding.dll
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBuilding\bin\Debug\ElevenBuilding.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBuilding\obj\Debug\ElevenBuilding.csprojAssemblyReference.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBuilding\obj\Debug\ElevenBuilding.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBuilding\obj\Debug\ElevenBuilding.dll
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\ElevenBuilding\obj\Debug\ElevenBuilding.pdb
