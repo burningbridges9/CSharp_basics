@@ -8,3 +8,5 @@ C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\bin\Debug\Ele
 C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\obj\Debug\Eleven.csproj.CopyComplete
 C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\obj\Debug\Eleven.exe
 C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\obj\Debug\Eleven.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\bin\Debug\ElevenBuilding.dll
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Eleven\bin\Debug\ElevenBuilding.pdb

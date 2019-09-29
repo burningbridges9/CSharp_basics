@@ -1,0 +1,6 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Twelve\bin\Debug\Twelve.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Twelve\bin\Debug\Twelve.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Twelve\obj\Debug\Twelve.csprojAssemblyReference.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Twelve\obj\Debug\Twelve.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Twelve\obj\Debug\Twelve.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Twelve\obj\Debug\Twelve.pdb

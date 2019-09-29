@@ -1,4 +1,5 @@
 ﻿using ElevenBank;
+using ElevenBuilding;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -15,6 +16,9 @@ namespace Eleven
         {
             BillFactory billFactory = new BillFactory();
             int n = billFactory.CreateAccount(10, Account.Current);
+
+            Building building = FactoryBuilding.CreateBuilding(10, 10, 2);
+            building.ToString();
         }
     }
 }

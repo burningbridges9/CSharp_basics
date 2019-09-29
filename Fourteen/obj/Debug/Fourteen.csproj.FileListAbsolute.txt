@@ -1,0 +1,7 @@
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Fourteen\bin\Debug\Fourteen.exe.config
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Fourteen\bin\Debug\Fourteen.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Fourteen\bin\Debug\Fourteen.pdb
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Fourteen\obj\Debug\Fourteen.csprojAssemblyReference.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Fourteen\obj\Debug\Fourteen.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Fourteen\obj\Debug\Fourteen.exe
+C:\Users\Rustam\documents\visual studio 2017\Projects\Tasks\Fourteen\obj\Debug\Fourteen.pdb
